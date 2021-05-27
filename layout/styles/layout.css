@@ -503,3 +503,14 @@ table a, #comments a{background-color:inherit;}
 .extraspace {
 	margin-top: 10px;
   }
+
+/* SVG icons */
+.icons{
+	height:60px;
+	width: 60px;
+}
+/*Fonts*/
+.titlefont{
+	font-family: 'Sigmar One', cursive;
+}
+
